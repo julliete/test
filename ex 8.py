@@ -1,6 +1,6 @@
 x=open('cadastro.txt','w')
 
-nome=input('digite nome: ')
+nome=input('digite seu nome: ')
 while nome!='':
     sexo=input('digite sexo: ')
     idade=input('digite idade: ')
